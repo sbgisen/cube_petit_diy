@@ -15,6 +15,10 @@ CubePetit is a small mobile robot platform designed for learning, prototyping, e
 - **CAD Data**: 筐体や部品データへのリンク
 - **ROS 2 Software**: CubePetitを動かすROS 2パッケージへのリンク
 
+## Homepage
+
+https://sbgisen.github.io/cube_petit_diy/
+
 ## Related links
 
 | Link | Description |
