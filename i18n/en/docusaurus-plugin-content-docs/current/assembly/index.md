@@ -11,5 +11,5 @@ Build Cube Petit in this order:
 2. **Electronics** — Mount the PC, sensors, and motors
 
 :::tip
-Before starting, verify all parts using the [Bill of Materials](../bom/index).
+Before starting, verify all parts using the [Bill of Materials](/bom/).
 :::

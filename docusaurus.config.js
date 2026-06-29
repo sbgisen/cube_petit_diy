@@ -14,7 +14,7 @@ const config = {
   organizationName: 'sbgisen',
   projectName: 'cube_petit_diy',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
