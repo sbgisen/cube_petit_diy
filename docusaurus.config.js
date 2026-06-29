@@ -87,6 +87,12 @@ const config = {
             activeBaseRegex: '^(/[a-z]{2})?/software',
           },
           {
+            to: '/modules/',
+            label: '追加モジュール',
+            position: 'left',
+            activeBaseRegex: '^(/[a-z]{2})?/modules',
+          },
+          {
             type: 'dropdown',
             label: 'v3',
             position: 'right',

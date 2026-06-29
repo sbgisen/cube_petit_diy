@@ -47,6 +47,11 @@ const sidebars = {
     'software/ros2-install',
     'software/package-setup',
   ],
+
+  modulesSidebar: [
+    'modules/index',
+    'modules/microphone',
+  ],
 };
 
 module.exports = sidebars;

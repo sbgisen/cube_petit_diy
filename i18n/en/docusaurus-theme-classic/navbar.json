@@ -23,6 +23,10 @@
     "message": "Software Setup",
     "description": "Navbar item Software Setup"
   },
+  "item.label.追加モジュール": {
+    "message": "Add-on Modules",
+    "description": "Navbar item Add-on Modules"
+  },
   "item.label.v3": {
     "message": "v3",
     "description": "Version dropdown label"
