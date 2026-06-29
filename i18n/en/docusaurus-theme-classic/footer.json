@@ -1,0 +1,34 @@
+{
+  "link.title.関連リンク": {
+    "message": "Related Links",
+    "description": "The title of footer links column 1"
+  },
+  "link.title.コミュニティ": {
+    "message": "Community",
+    "description": "The title of footer links column 2"
+  },
+  "link.item.label.Cube Petit Portal": {
+    "message": "Cube Petit Portal",
+    "description": "Footer link label"
+  },
+  "link.item.label.cube_petit_ros": {
+    "message": "cube_petit_ros",
+    "description": "Footer link label"
+  },
+  "link.item.label.cube_petit_cad": {
+    "message": "cube_petit_cad",
+    "description": "Footer link label"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Footer link label"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "Footer link label"
+  },
+  "copyright": {
+    "message": "© 2024 Cube Petit. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

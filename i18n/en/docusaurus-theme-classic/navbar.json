@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Cube Petit DIY",
+    "description": "The title in the navbar"
+  },
+  "item.label.Overview": {
+    "message": "Overview",
+    "description": "Navbar item Overview"
+  },
+  "item.label.BOM": {
+    "message": "BOM",
+    "description": "Navbar item BOM"
+  },
+  "item.label.Assembly": {
+    "message": "Assembly",
+    "description": "Navbar item Assembly"
+  },
+  "item.label.Wiring": {
+    "message": "Wiring",
+    "description": "Navbar item Wiring"
+  },
+  "item.label.Software Setup": {
+    "message": "Software Setup",
+    "description": "Navbar item Software Setup"
+  },
+  "item.label.v3": {
+    "message": "v3",
+    "description": "Version dropdown label"
+  },
+  "item.label.v3 (latest)": {
+    "message": "v3 (latest)",
+    "description": "Version dropdown v3 item"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item GitHub"
+  }
+}

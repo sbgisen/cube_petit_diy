@@ -1,0 +1,22 @@
+.wrap {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  font-weight: 600;
+}
+
+.excel {
+  background-color: #217346;
+  border-color: #217346;
+  color: #fff;
+}
+
+.excel:hover {
+  background-color: #1a5c37;
+  border-color: #1a5c37;
+  color: #fff;
+}

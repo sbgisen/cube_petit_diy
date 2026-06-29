@@ -1,0 +1,22 @@
+{
+  "sidebar.tutorialSidebar.doc.intro.label": {
+    "message": "Introduction",
+    "description": "The label for doc intro in sidebar"
+  },
+  "sidebar.tutorialSidebar.category.🛒 部品リスト（BOM）.label": {
+    "message": "🛒 Bill of Materials",
+    "description": "The label for category BOM in sidebar"
+  },
+  "sidebar.tutorialSidebar.category.🔧 組み立て手順.label": {
+    "message": "🔧 Assembly Guide",
+    "description": "The label for category assembly in sidebar"
+  },
+  "sidebar.tutorialSidebar.category.⚡ 配線・電装.label": {
+    "message": "⚡ Wiring & Electrical",
+    "description": "The label for category wiring in sidebar"
+  },
+  "sidebar.tutorialSidebar.category.💻 ソフトウェアセットアップ.label": {
+    "message": "💻 Software Setup",
+    "description": "The label for category software in sidebar"
+  }
+}
