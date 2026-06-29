@@ -1,0 +1,11 @@
+# Docusaurus
+.docusaurus/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
