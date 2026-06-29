@@ -32,8 +32,14 @@ const sidebars = {
 
   assemblySidebar: [
     'assembly/index',
-    'assembly/step1-body',
-    'assembly/step2-electronics',
+    'assembly/step1-face',
+    'assembly/step2-frame',
+    'assembly/step3-caster',
+    'assembly/step4-tire',
+    'assembly/step5-undercarriage',
+    'assembly/step6-motor',
+    'assembly/step7-sensor',
+    'assembly/step8-speaker',
   ],
 
   wiringSidebar: [
@@ -46,6 +52,10 @@ const sidebars = {
     'software/index',
     'software/ros2-install',
     'software/package-setup',
+    'software/wiring-usb',
+    'software/sensor-check',
+    'software/motor-check',
+    'software/device-test',
   ],
 
   modulesSidebar: [
